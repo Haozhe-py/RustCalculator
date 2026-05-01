@@ -11,7 +11,7 @@ rustc main.rs
 ```
 If you've already compiled, run `./main` directly.
 > [!WARNING]
-> Please DON'T enter any expressions with syntax error, or the program will panic!
+> Please **DON'T** enter any expressions with syntax error, or the program will panic!
 
 > [!NOTE]
 > Supported operators: `+` `-` `*` `/` `%` `^` `(` `)`
