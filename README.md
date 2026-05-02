@@ -26,4 +26,5 @@ If you've already compiled, run `./main` directly.
 > | `-` | Sub | `^` | Pow |
 > | `*` | Mul | `(` `)` | - |
 > | `/` | Div | - | - |
+> 
 > Entering operators that are not supported (e.g. `sqrt()`) will cause program panic!
