@@ -20,12 +20,10 @@ If you've already compiled, run `./main` directly.
 
 > [!NOTE]
 > The following operators are supported:
-> | Symbol | Operation |
-> | ------ | --------- |
-> | `+` | Add |
-> | `-` | Sub |
-> | `*` | Mul |
-> | `/` | Div |
-> | `%` | Mod |
-> | `^` | Pow |
-> | `(` `)` | - |
+> | Symbol | Operation | Symbol | Operation |
+> | ------ | --------- | ------ | --------- |
+> | `+` | Add | `%` | Mod |
+> | `-` | Sub | `^` | Pow |
+> | `*` | Mul | `(` `)` | - |
+> | `/` | Div | - | - |
+> Entering operators that are not supported (e.g. `sqrt()`) will cause program panic!
