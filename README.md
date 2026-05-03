@@ -4,6 +4,7 @@ You can use it by executing the following code:
 
 **Linux/macOS:**
 ```bash
+mkdir ./RustCalculator
 git clone https://github.com/Haozhe-py/RustCalculator.git
 cd ./RustCalculator
 rustc ./main.rs
